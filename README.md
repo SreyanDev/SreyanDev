@@ -3,4 +3,5 @@
 -🆒I created a few games in js using p5.js and matter.js.</br>
 -🥇Looking forward to learn both java and python.</br>
 
-![download](https://github.com/user-attachments/assets/e3c9b6a7-b394-4b64-bcdb-8b3430426cdd)
+![img icons8](https://github.com/user-attachments/assets/237a3165-8bd4-41a1-8214-0970266db5bb)
+
