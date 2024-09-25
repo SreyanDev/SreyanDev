@@ -7,3 +7,12 @@ Skills 👉  ![img icons8](https://github.com/user-attachments/assets/237a3165-8
 
           
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SreyanDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SreyanDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+#Languages
+
+[![](https://visitcount.itsvg.in/api?id=SreyanDev&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
