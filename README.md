@@ -1,7 +1,7 @@
 # **- :maple_leaf:  Hi I am Sreyan and I am curious guy, I like to learn new things especially in coding and technology.</br>**
 - 🧊I am a **Blender user** with some experience.</br>
 - 🆒I created a few games in **JS** using **p5.js** and **matter.js** libraries.</br>
-- 📖Currently learning **Python**.
+- 📖Currently learning **C**.
 - 🥇Looking forward to learn **DSA in C++** or **DSA in Java**.</br>
 
 **Current Skills 👉  ![img icons8](https://github.com/user-attachments/assets/237a3165-8bd4-41a1-8214-0970266db5bb) and ![img icons8](https://github.com/user-attachments/assets/a9378667-7b05-4f3e-8f48-ac7bd4c22297)**
