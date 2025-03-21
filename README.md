@@ -1,4 +1,4 @@
-:maple_leaf:  Hi I am Sreyan and I am curious guy, I like to learn new things especially in coding and technology.</br>**
+:maple_leaf:  Hi I am Sreyan and I am curious guy, I like to learn new things especially in coding and technology.</br>
 
 - 📖Currently learning **C**.
 - 🥇Looking forward to learn **DSA in C++**.</br>
