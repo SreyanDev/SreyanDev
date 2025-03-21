@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e348cc25-2419-4ef7-937a-d27e2c97a6c3)# **- :maple_leaf:  Hi I am Sreyan and I am curious guy, I like to learn new things especially in coding and technology.</br>**
+:maple_leaf:  Hi I am Sreyan and I am curious guy, I like to learn new things especially in coding and technology.</br>**
 
 - 📖Currently learning **C**.
 - 🥇Looking forward to learn **DSA in C++**.</br>
